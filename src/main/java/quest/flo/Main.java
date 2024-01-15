@@ -2,6 +2,7 @@ package quest.flo;
 
 public class Main {
     public static void main(String[] args) {
-        WaitOnNumbers waitOnNumbers = new WaitOnNumbers();
+//        WaitOnNumbers waitOnNumbers = new WaitOnNumbers();
+        CleanWait cleanWait = new CleanWait();
     }
 }
